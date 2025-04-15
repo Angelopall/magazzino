@@ -1,0 +1,23 @@
+# Cartelle da ignorare
+node_modules/
+dist/
+.vite/
+.vercel/
+
+# Log e debug files
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Config locale o file utente
+.env
+.env.local
+.DS_Store
+
+# Mac specific
+._*
+.Spotlight-V100
+.Trashes
+
+# VSCode settings locali (se usi)
+.vscode/

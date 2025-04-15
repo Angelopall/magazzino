@@ -1,0 +1,1872 @@
+[
+  {
+    "name": "APOLLO SHORT",
+    "configurazioni": [
+      {
+        "scatole": 72,
+        "altezza": 219,
+        "peso": 212.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 66,
+        "altezza": 202,
+        "peso": 195.0,
+       "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 60,
+        "altezza": 185,
+        "peso": 178.0,
+       "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 54,
+        "altezza": 168,
+        "peso": 161.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 48,
+        "altezza": 151,
+        "peso": 144.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 42,
+        "altezza": 134,
+        "peso": 128.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 36,
+        "altezza": 117,
+        "peso": 111.0,
+       "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 30,
+        "altezza": 100,
+        "peso": 94.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 24,
+        "altezza": 83,
+        "peso": 79.0,
+       "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 18,
+        "altezza": 66,
+        "peso": 60.0,
+       "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 12,
+        "altezza": 49,
+        "peso": 44.0,
+       "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 6,
+        "altezza": 32,
+        "peso": 27.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 96,
+        "altezza": 219,
+        "peso": 282.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 88,
+        "altezza": 202,
+        "peso": 260.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 80,
+        "altezza": 185,
+        "peso": 237.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 72,
+        "altezza": 168,
+        "peso": 214.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 64,
+        "altezza": 151,
+        "peso": 191.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 56,
+        "altezza": 134,
+        "peso": 168.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 48,
+        "altezza": 117,
+        "peso": 146.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 40,
+        "altezza": 100,
+        "peso": 123.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 32,
+        "altezza": 83,
+        "peso": 100.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 24,
+        "altezza": 66,
+        "peso": 78.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 16,
+        "altezza": 49,
+        "peso": 55.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 8,
+        "altezza": 32,
+        "peso": 32.0,
+        "tipo_pallet": "120x100"
+      }
+    ]
+  },
+  {
+    "name": "APOLLO LONG",
+    "configurazioni": [
+      {
+        "scatole": 54,
+        "altezza": 213,
+        "peso": 194.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 48,
+        "altezza": 191,
+        "peso": 173.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 42,
+        "altezza": 169,
+        "peso": 153.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 36,
+        "altezza": 147,
+        "peso": 132.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 30,
+        "altezza": 125,
+        "peso": 112.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 24,
+        "altezza": 103,
+        "peso": 92.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 18,
+        "altezza": 81,
+        "peso": 71.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 12,
+        "altezza": 59,
+        "peso": 51.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 6,
+        "altezza": 37,
+        "peso": 30.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 72,
+        "altezza": 213,
+        "peso": 255.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 64,
+        "altezza": 191,
+        "peso": 227.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 56,
+        "altezza": 169,
+        "peso": 200.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 48,
+        "altezza": 147,
+        "peso": 173.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 40,
+        "altezza": 125,
+        "peso": 146.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 32,
+        "altezza": 103,
+        "peso": 119.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 24,
+        "altezza": 81,
+        "peso": 92.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 16,
+        "altezza": 59,
+        "peso": 64.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 8,
+        "altezza": 37,
+        "peso": 37.0,
+        "tipo_pallet": "120x100"
+      }
+    ]
+  },
+  {
+    "name": "ARES SHORT",
+    "configurazioni": [
+      {
+        "scatole": 90,
+        "altezza": 210,
+        "peso": 226.0,
+         "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 84,
+        "altezza": 197,
+        "peso": 212.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 78,
+        "altezza": 184,
+        "peso": 197.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 72,
+        "altezza": 171,
+        "peso": 183.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 66,
+        "altezza": 158,
+        "peso": 168.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 60,
+        "altezza": 145,
+        "peso": 154.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 54,
+        "altezza": 132,
+        "peso": 140.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 48,
+        "altezza": 119,
+        "peso": 125.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 42,
+        "altezza": 106,
+        "peso": 111.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 36,
+        "altezza": 93,
+        "peso": 96.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 30,
+        "altezza": 80,
+        "peso": 82.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 24,
+        "altezza": 67,
+        "peso": 68.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 18,
+        "altezza": 54,
+        "peso": 53.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 12,
+        "altezza": 41,
+        "peso": 39.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 6,
+        "altezza": 28,
+        "peso": 24.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 120,
+        "altezza": 210,
+        "peso": 298.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 112,
+        "altezza": 197,
+        "peso": 279.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 104,
+        "altezza": 184,
+        "peso": 260.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 96,
+        "altezza": 171,
+        "peso": 240.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 88,
+        "altezza": 158,
+        "peso": 221.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 80,
+        "altezza": 145,
+        "peso": 202.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 72,
+        "altezza": 132,
+        "peso": 183.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 64,
+        "altezza": 119,
+        "peso": 164.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 56,
+        "altezza": 106,
+        "peso": 144.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 48,
+        "altezza": 93,
+        "peso": 125.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 40,
+        "altezza": 80,
+        "peso": 106.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 32,
+        "altezza": 67,
+        "peso": 87.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 24,
+        "altezza": 54,
+        "peso": 68.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 16,
+        "altezza": 41,
+        "peso": 48.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 8,
+        "altezza": 28,
+        "peso": 29.0,
+        "tipo_pallet": "120x100"
+      }
+    ]
+  },
+  {
+    "name": "ARES LONG",
+    "configurazioni": [
+      {
+        "scatole": 72,
+        "altezza": 219,
+        "peso": 204.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 66,
+        "altezza": 202,
+        "peso": 188.0,
+         "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 60,
+        "altezza": 185,
+        "peso": 172.0,
+         "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 54,
+        "altezza": 168,
+        "peso": 156.0,
+         "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 48,
+        "altezza": 151,
+        "peso": 140.0,
+         "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 42,
+        "altezza": 134,
+        "peso": 123.0,
+         "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 36,
+        "altezza": 117,
+        "peso": 107.0,
+         "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 30,
+        "altezza": 100,
+        "peso": 91.0,
+         "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 24,
+        "altezza": 83,
+        "peso": 75.0,
+         "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 18,
+        "altezza": 66,
+        "peso": 58.0,
+         "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 12,
+        "altezza": 49,
+        "peso": 42.0,
+         "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 6,
+        "altezza": 32,
+        "peso": 26.0,
+         "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 96,
+        "altezza": 219,
+        "peso": 269.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 88,
+        "altezza": 202,
+        "peso": 248.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 80,
+        "altezza": 185,
+        "peso": 226.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 72,
+        "altezza": 168,
+        "peso": 204.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 64,
+        "altezza": 151,
+        "peso": 183.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 56,
+        "altezza": 134,
+        "peso": 161.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 48,
+        "altezza": 117,
+        "peso": 140.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 40,
+        "altezza": 100,
+        "peso": 118.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 32,
+        "altezza": 83,
+        "peso": 96.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 24,
+        "altezza": 66,
+        "peso": 75.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 16,
+        "altezza": 49,
+        "peso": 53.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 8,
+        "altezza": 32,
+        "peso": 32.0,
+        "tipo_pallet": "120x100"
+      }
+    ]
+  },
+  {
+    "name": "DEMETRA",
+    "configurazioni": [
+      {
+        "scatole": 126,
+        "altezza": 225,
+        "peso": 281.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 117,
+        "altezza": 210,
+        "peso": 262.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 108,
+        "altezza": 195,
+        "peso": 243.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 99,
+        "altezza": 180,
+        "peso": 223.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 90,
+        "altezza": 165,
+        "peso": 204.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 81,
+        "altezza": 150,
+        "peso": 185.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 72,
+        "altezza": 135,
+        "peso": 165.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 63,
+        "altezza": 120,
+        "peso": 145.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 54,
+        "altezza": 105,
+        "peso": 126.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 45,
+        "altezza": 90,
+        "peso": 107.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 36,
+        "altezza": 75,
+        "peso": 87.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 27,
+        "altezza": 60,
+        "peso": 68.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 18,
+        "altezza": 45,
+        "peso": 50.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 9,
+        "altezza": 30,
+        "peso": 30.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 154,
+        "altezza": 225,
+        "peso": 341.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 143,
+        "altezza": 210,
+        "peso": 317.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 132,
+        "altezza": 195,
+        "peso": 294.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 121,
+        "altezza": 180,
+        "peso": 270.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 110,
+        "altezza": 165,
+        "peso": 246.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 99,
+        "altezza": 150,
+        "peso": 223.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 88,
+        "altezza": 135,
+        "peso": 199.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 77,
+        "altezza": 120,
+        "peso": 175.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 66,
+        "altezza": 105,
+        "peso": 152.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 55,
+        "altezza": 90,
+        "peso": 128.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 44,
+        "altezza": 75,
+        "peso": 104.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 33,
+        "altezza": 60,
+        "peso": 81.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 22,
+        "altezza": 45,
+        "peso": 57.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 11,
+        "altezza": 30,
+        "peso": 34.0,
+        "tipo_pallet": "120x100"
+      }
+    ]
+  },
+  {
+    "name": "EFESTO",
+    "configurazioni": [
+      {
+        "scatole": 90,
+        "altezza": 210,
+        "peso": 190.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 84,
+        "altezza": 197,
+        "peso": 178.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 78,
+        "altezza": 184,
+        "peso": 166.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 72,
+        "altezza": 171,
+        "peso": 154.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 66,
+        "altezza": 158,
+        "peso": 142.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 60,
+        "altezza": 145,
+        "peso": 130.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 54,
+        "altezza": 132,
+        "peso": 118.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 48,
+        "altezza": 119,
+        "peso": 106.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 42,
+        "altezza": 106,
+        "peso": 94.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 36,
+        "altezza": 93,
+        "peso": 82.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 30,
+        "altezza": 80,
+        "peso": 70.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 24,
+        "altezza": 67,
+        "peso": 58.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 18,
+        "altezza": 54,
+        "peso": 46.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 12,
+        "altezza": 41,
+        "peso": 34.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 6,
+        "altezza": 28,
+        "peso": 22.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 120,
+        "altezza": 210,
+        "peso": 250.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 112,
+        "altezza": 197,
+        "peso": 234.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 104,
+        "altezza": 184,
+        "peso": 218.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 96,
+        "altezza": 171,
+        "peso": 202.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 88,
+        "altezza": 158,
+        "peso": 186.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 80,
+        "altezza": 145,
+        "peso": 170.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 72,
+        "altezza": 132,
+        "peso": 154.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 64,
+        "altezza": 119,
+        "peso": 138.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 56,
+        "altezza": 106,
+        "peso": 122.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 48,
+        "altezza": 93,
+        "peso": 106.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 40,
+        "altezza": 80,
+        "peso": 90.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 32,
+        "altezza": 67,
+        "peso": 74.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 24,
+        "altezza": 54,
+        "peso": 58.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 16,
+        "altezza": 41,
+        "peso": 42.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 8,
+        "altezza": 28,
+        "peso": 26.0,
+        "tipo_pallet": "120x100"
+      }
+    ]
+  },
+  {
+    "name": "ERACLE SHORT",
+    "configurazioni": [
+      {
+        "scatole": 72,
+        "altezza": 219,
+        "peso": 233.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 66,
+        "altezza": 202,
+        "peso": 215.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 60,
+        "altezza": 185,
+        "peso": 196.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 54,
+        "altezza": 168,
+        "peso": 177.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 48,
+        "altezza": 151,
+        "peso": 159.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 42,
+        "altezza": 134,
+        "peso": 140.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 36,
+        "altezza": 117,
+        "peso": 122.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 30,
+        "altezza": 100,
+        "peso": 103.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 24,
+        "altezza": 83,
+        "peso": 84.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 18,
+        "altezza": 66,
+        "peso": 66.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 12,
+        "altezza": 49,
+        "peso": 47.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 6,
+        "altezza": 32,
+        "peso": 29.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 96,
+        "altezza": 219,
+        "peso": 308.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 88,
+        "altezza": 202,
+        "peso": 283.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 80,
+        "altezza": 185,
+        "peso": 258.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 72,
+        "altezza": 168,
+        "peso": 233.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 64,
+        "altezza": 151,
+        "peso": 208.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 56,
+        "altezza": 134,
+        "peso": 184.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 48,
+        "altezza": 117,
+        "peso": 159.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 40,
+        "altezza": 100,
+        "peso": 134.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 32,
+        "altezza": 83,
+        "peso": 109.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 24,
+        "altezza": 66,
+        "peso": 84.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 16,
+        "altezza": 49,
+        "peso": 60.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 8,
+        "altezza": 32,
+        "peso": 35.0,
+        "tipo_pallet": "120x100"
+      }
+    ]
+  },
+  {
+    "name": "ERACLE LONG",
+    "configurazioni": [
+      {
+        "scatole": 54,
+        "altezza": 213,
+        "peso": 194.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 48,
+        "altezza": 191,
+        "peso": 173.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 42,
+        "altezza": 169,
+        "peso": 153.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 36,
+        "altezza": 147,
+        "peso": 132.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 30,
+        "altezza": 125,
+        "peso": 112.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 24,
+        "altezza": 103,
+        "peso": 92.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 18,
+        "altezza": 81,
+        "peso": 71.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 12,
+        "altezza": 59,
+        "peso": 51.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 6,
+        "altezza": 37,
+        "peso": 30.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 72,
+        "altezza": 213,
+        "peso": 255.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 64,
+        "altezza": 191,
+        "peso": 227.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 56,
+        "altezza": 169,
+        "peso": 200.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 48,
+        "altezza": 147,
+        "peso": 173.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 40,
+        "altezza": 125,
+        "peso": 146.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 32,
+        "altezza": 103,
+        "peso": 119.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 24,
+        "altezza": 81,
+        "peso": 92.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 16,
+        "altezza": 59,
+        "peso": 64.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 8,
+        "altezza": 37,
+        "peso": 37.0,
+         "tipo_pallet": "120x100"
+      }
+    ]
+  },
+  {
+    "name": "ERMES",
+    "configurazioni": [
+      {
+        "scatole": 54,
+        "altezza": 195,
+        "peso": 291.0,
+         "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 48,
+        "altezza": 175,
+        "peso": 260.0,
+         "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 42,
+        "altezza": 155,
+        "peso": 228.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 36,
+        "altezza": 135,
+        "peso": 197.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 30,
+        "altezza": 115,
+        "peso": 166.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 24,
+        "altezza": 95,
+        "peso": 135.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 18,
+        "altezza": 75,
+        "peso": 104.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 12,
+        "altezza": 55,
+        "peso": 72.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 6,
+        "altezza": 35,
+        "peso": 41.0,
+        "tipo_pallet": "120x80"
+      }
+    ]
+  },
+  {
+    "name": "POSEIDONE SHORT",
+    "configurazioni": [
+      {
+        "scatole": 72,
+        "altezza": 215,
+        "peso": 212.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 63,
+        "altezza": 190,
+        "peso": 186.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 54,
+        "altezza": 165,
+        "peso": 161.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 45,
+        "altezza": 140,
+        "peso": 136.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 36,
+        "altezza": 115,
+        "peso": 111.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 27,
+        "altezza": 90,
+        "peso": 86.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 18,
+        "altezza": 65,
+        "peso": 60.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 9,
+        "altezza": 40,
+        "peso": 35.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 88,
+        "altezza": 215,
+        "peso": 256.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 77,
+        "altezza": 190,
+        "peso": 226.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 66,
+        "altezza": 165,
+        "peso": 195.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 55,
+        "altezza": 140,
+        "peso": 164.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 44,
+        "altezza": 115,
+        "peso": 133.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 33,
+        "altezza": 90,
+        "peso": 102.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 22,
+        "altezza": 65,
+        "peso": 72.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 11,
+        "altezza": 40,
+        "peso": 41.0,
+        "tipo_pallet": "120x100"
+      }
+    ]
+  },
+  {
+    "name": "POSEIDONE LONG",
+    "configurazioni": [
+      {
+        "scatole": 52,
+        "altezza": 236,
+        "peso": 208.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 48,
+        "altezza": 219,
+        "peso": 193.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 44,
+        "altezza": 202,
+        "peso": 178.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 40,
+        "altezza": 185,
+        "peso": 163.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 36,
+        "altezza": 168,
+        "peso": 150.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 32,
+        "altezza": 151,
+        "peso": 134.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 28,
+        "altezza": 134,
+        "peso": 120.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 24,
+        "altezza": 117,
+        "peso": 104.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 20,
+        "altezza": 100,
+        "peso": 89.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 16,
+        "altezza": 83,
+        "peso": 75.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 12,
+        "altezza": 66,
+        "peso": 60.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 8,
+        "altezza": 49,
+        "peso": 45.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 4,
+        "altezza": 32,
+        "peso": 30.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 65,
+        "altezza": 236,
+        "peso": 251.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 60,
+        "altezza": 219,
+        "peso": 232.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 55,
+        "altezza": 202,
+        "peso": 214.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 50,
+        "altezza": 185,
+        "peso": 195.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 45,
+        "altezza": 168,
+        "peso": 177.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 40,
+        "altezza": 151,
+        "peso": 158.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 35,
+        "altezza": 134,
+        "peso": 140.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 30,
+        "altezza": 117,
+        "peso": 121.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 25,
+        "altezza": 100,
+        "peso": 103.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 20,
+        "altezza": 83,
+        "peso": 84.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 15,
+        "altezza": 66,
+        "peso": 66.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 10,
+        "altezza": 49,
+        "peso": 47.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 5,
+        "altezza": 32,
+        "peso": 29.0,
+        "tipo_pallet": "120x100"
+      }
+    ]
+  },
+  {
+    "name": "ZEUS SHORT",
+    "configurazioni": [
+      {
+        "scatole": 52,
+        "altezza": 255,
+        "peso": 233.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 48,
+        "altezza": 240,
+        "peso": 216.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 44,
+        "altezza": 220,
+        "peso": 199.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 40,
+        "altezza": 200,
+        "peso": 182.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 36,
+        "altezza": 185,
+        "peso": 164.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 32,
+        "altezza": 165,
+        "peso": 147.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 28,
+        "altezza": 145,
+        "peso": 130.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 24,
+        "altezza": 130,
+        "peso": 113.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 20,
+        "altezza": 110,
+        "peso": 96.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 16,
+        "altezza": 90,
+        "peso": 79.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 12,
+        "altezza": 70,
+        "peso": 61.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 8,
+        "altezza": 50,
+        "peso": 44.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 4,
+        "altezza": 35,
+        "peso": 27.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 65,
+        "altezza": 255,
+        "peso": 290.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 60,
+        "altezza": 240,
+        "peso": 268.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 55,
+        "altezza": 220,
+        "peso": 247.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 50,
+        "altezza": 200,
+        "peso": 225.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 45,
+        "altezza": 185,
+        "peso": 204.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 40,
+        "altezza": 165,
+        "peso": 182.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 35,
+        "altezza": 150,
+        "peso": 161.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 30,
+        "altezza": 130,
+        "peso": 139.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 25,
+        "altezza": 110,
+        "peso": 117.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 20,
+        "altezza": 90,
+        "peso": 96.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 15,
+        "altezza": 70,
+        "peso": 75.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 10,
+        "altezza": 55,
+        "peso": 53.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 5,
+        "altezza": 35,
+        "peso": 32.0,
+         "tipo_pallet": "120x100"
+      }
+    ]
+  },
+  {
+    "name": "ZEUS LONG",
+    "configurazioni": [
+      {
+        "scatole": 32,
+        "altezza": 225,
+        "peso": 192.0,
+         "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 28,
+        "altezza": 200,
+        "peso": 168.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 24,
+        "altezza": 170,
+        "peso": 144.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 20,
+        "altezza": 145,
+        "peso": 120.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 16,
+        "altezza": 120,
+        "peso": 96.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 12,
+        "altezza": 95,
+        "peso": 72.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 8,
+        "altezza": 70,
+        "peso": 48.0,
+        "tipo_pallet": "120x100"
+      },
+      {
+        "scatole": 4,
+        "altezza": 40,
+        "peso": 34.0,
+        "tipo_pallet": "120x100"
+      }
+    ]
+  },
+  {
+    "name": "ZIP STOP SHORT",
+    "configurazioni": [
+      {
+        "scatole": 84,
+        "altezza": 180,
+        "peso": 151.2,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 42,
+        "altezza": 90,
+        "peso": 75.6,
+        "tipo_pallet": "120x80"
+      }
+    ]
+  },
+  {
+    "name": "ZIP STOP LONG",
+    "configurazioni": [
+      {
+        "scatole": 84,
+        "altezza": 180,
+        "peso": 126.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 42,
+        "altezza": 90,
+        "peso": 63.0,
+        "tipo_pallet": "120x80"
+      }
+    ]
+  },
+  {
+    "name": "URANO",
+    "configurazioni": [
+      {
+        "scatole": 48,
+        "altezza": 170,
+        "peso": 672,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 24,
+        "altezza": 85,
+        "peso": 336,
+        "tipo_pallet": "120x80"
+      }
+    ]
+  },
+  {
+    "name": "PIOMBINI D.9",
+    "configurazioni": [
+      {
+        "scatole": 84,
+        "altezza": 180,
+        "peso": 193.2,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 42,
+        "altezza": 90,
+        "peso": 96.6,
+        "tipo_pallet": "120x80"
+      }
+    ]
+  },
+  {
+    "name": "PIOMBINI D.13",
+    "configurazioni": [
+      {
+        "scatole": 48,
+        "altezza": 180,
+        "peso": 225.6,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 24,
+        "altezza": 90,
+        "peso": 112.8,
+        "tipo_pallet": "120x80"
+      }
+    ]
+  },
+  {
+    "name": "CRONO",
+    "configurazioni": [
+      {
+        "scatole": 40,
+        "altezza": 170,
+        "peso": 452.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 20,
+        "altezza": 85,
+        "peso": 226.0,
+        "tipo_pallet": "120x80"
+      }
+    ]
+  },
+  {
+    "name": "ZIP HOLDER",
+    "configurazioni": [
+      {
+        "scatole": 40,
+        "altezza": 180,
+        "peso": 216.0,
+        "tipo_pallet": "120x80"
+      },
+      {
+        "scatole": 20,
+        "altezza": 90,
+        "peso": 108.0,
+        "tipo_pallet": "120x80"
+      }
+    ]
+  }
+]
